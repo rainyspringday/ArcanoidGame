@@ -5,3 +5,4 @@ Debuff kills player;
 Command line start example:
 Arcanoid.exe 1200 800
 To win destroy all blocks and catch the ball.
+Link to game archive - https://drive.google.com/drive/folders/1EXZDSTkAqs2fMWlyT1Tmf3KXwQrvMb1T
